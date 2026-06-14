@@ -11,7 +11,7 @@ A simple gRPC application built with Go to learn the fundamentals of:
 ## Project Structure
 
 ```text
-grpc-demo/
+grpc-learning/
 │
 ├── client/
 │   └── main.go
