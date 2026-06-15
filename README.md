@@ -72,4 +72,4 @@ This project was created to understand:
 
 ## Author
 
-Shreyas Gowda
+Shreyas G Gowda
